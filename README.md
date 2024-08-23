@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : SARAVANAN PV
-Roll no : 212223230195
-Date of experiment : 22.08.2024
+Name : SARAVANAN PV<br>
+Roll no : 212223230195<br>
+Date of experiment : 22.08.2024<br>
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
